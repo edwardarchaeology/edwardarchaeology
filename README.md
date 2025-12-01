@@ -1,1 +1,1 @@
-I like to present my projects as writeups on my [github pages website](https://edwardarchaeology.github.io/). Check it out to see some of my work :)
+I like to organize my projects via my consulting website's [portfolio section](https://lelanddataconsulting.com/portfolio). Check it out to see some of my work :)
